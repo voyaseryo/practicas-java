@@ -7,7 +7,7 @@ public class PerimetroCircunferencia {
 
         perimetro= 2 * Pi * radio;
         System.out.println("El perimetro de la circunferencia de radio "+radio);
-        System.out.println("es");
-        System.out.println(perimetro);
+        System.out.println("es ");
+        System.out.println(perimetro + "cm.");
     }
 }
