@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - usaCirculo",
+            "request": "launch",
+            "mainClass": "tema3.usaCirculo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - usaCirculo",
+            "request": "launch",
+            "mainClass": "usaCirculo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PerimetroCircunferencia",
+            "request": "launch",
+            "mainClass": "PerimetroCircunferencia"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo"
+        }
+    ]
+}
